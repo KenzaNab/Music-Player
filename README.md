@@ -16,7 +16,3 @@ Full-featured music player with visualizer, playlist, shuffle, repeat and volume
 ## Quick start
 ```bash
 npm install && npm run dev
-```
-
-## License
-MIT — Kenza Nabaghi
